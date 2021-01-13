@@ -14,8 +14,8 @@ namespace Fsocial.Projectile
         }
 		
 		public override void SetDefaults() {
-            projectile.width = 12;                   
-            projectile.height = 12;
+            projectile.width = 32;                   
+            projectile.height = 32;
             projectile.aiStyle = 1;
             projectile.friendly = true;
             projectile.ranged = true;          // Дальний бой true - yes false - no

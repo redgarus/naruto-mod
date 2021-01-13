@@ -15,8 +15,8 @@ namespace Fsocial.Items
 		{
             item.damage = 200; // значение урона
             item.ranged = true;                   
-            item.width = 12;                   
-            item.height = 12;
+            item.width = 32;                   
+            item.height = 32;
             item.maxStack = 999;              //сколько может содержаться в стаке 
             item.consumable = true;
 			item.shoot = mod.ProjectileType("Frassenbul");         //какой Projectile будет использоваться
