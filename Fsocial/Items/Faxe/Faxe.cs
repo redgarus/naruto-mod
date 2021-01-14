@@ -4,7 +4,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace Fsocial.Items //название вашего мода
+namespace Fsocial.Items.Faxe //название вашего мода
 {
     public class Faxe : ModItem //название вашего скрипта
     {

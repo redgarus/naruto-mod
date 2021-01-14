@@ -1,7 +1,7 @@
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace Fsocial.Items
+namespace Fsocial.Items.Fsword
 {
 	public class Fsword : ModItem
 	{

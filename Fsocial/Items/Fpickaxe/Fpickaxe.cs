@@ -5,7 +5,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace Fsocial.Items //название вашего мода
+namespace Fsocial.Items.Fpickaxe //название вашего мода
 {
     public class Fpickaxe : ModItem //название вашего скрипта
     {

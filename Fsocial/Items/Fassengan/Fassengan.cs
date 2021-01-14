@@ -1,9 +1,9 @@
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace Fsocial.Items.Rassengan
+namespace Fsocial.Items
 {
-	public class Rassengan : ModItem
+	public class Fassengan : ModItem
 	{
 		public override void SetStaticDefaults() 
 		{

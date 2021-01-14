@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Faxe",
+    "\\Fband",
+    "\\Fbow",
+    "\\Fshirt",
+    "\\Fsword"
   ],
-  "SelectedNode": "\\Fbow.cs",
+  "SelectedNode": "\\Faxe",
   "PreviewInSolutionExplorer": false
 }

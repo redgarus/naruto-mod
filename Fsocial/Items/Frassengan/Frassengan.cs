@@ -1,7 +1,7 @@
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace Fsocial.Items
+namespace Fsocial.Items.Frassengan
 {
     public class Frassengan : ModItem
     {

@@ -2,7 +2,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace Fsocial.Items
+namespace Fsocial.Items.Fband
 {
     [AutoloadEquip(EquipType.Head)]
 	public class Fband : ModItem
